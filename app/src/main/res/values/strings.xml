@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="next_button_text">Next</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Wrong!</string>
+    <string name="win">Win!</string>
+    <string name="lose">Lose!</string>
+    <string name="play_again">Play Again</string>
+</resources>
